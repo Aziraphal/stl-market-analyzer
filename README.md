@@ -1,6 +1,7 @@
 # stl-market-analyzer
 <p align="center">
-  <img src="logo-stl-market-analyzer.png" alt="STL Market Analyzer Logo" width="200"/>
+  <img src="![logo-stl-market-analyzer](https://github.com/user-attachments/assets/63951d5a-80b6-4a08-878e-e40eaa39fffc)
+" alt="STL Market Analyzer Logo" width="200"/>
 </p>
 
 # STL Market Analyzer
